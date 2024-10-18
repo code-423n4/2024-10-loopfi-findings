@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "`PositionActionPendle.sol#_onWithdraw` does not have slippage parameter minOut set.",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/10"
+}
