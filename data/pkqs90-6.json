@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "RewardManager.sol will break accounting if rewardToken is the same as collateralToken.",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/6"
+}
