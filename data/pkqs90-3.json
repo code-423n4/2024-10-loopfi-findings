@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "`PositionAction.sol#onCreditFlashLoan` may end up with stuck funds for EXACT_IN primary swaps.",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/3"
+}
