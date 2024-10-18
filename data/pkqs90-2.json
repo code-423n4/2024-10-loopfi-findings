@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "`CDPVault.sol#liquidatePositionBadDebt()` does correctly handle profit and loss",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/2"
+}
