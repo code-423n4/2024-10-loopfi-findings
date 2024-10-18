@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "PositionAction20, PositionAction4626, PositionActionPendle does not handle tokenScale for CDPVault.withdraw()",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/11"
+}
