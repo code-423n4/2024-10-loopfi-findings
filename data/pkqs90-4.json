@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Token scales are not correctly handled in CDPVault for both collateral and underlying pool tokens.",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/4"
+}
