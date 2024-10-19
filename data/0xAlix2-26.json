@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "Invalid handling of risdual amount in `PositionAction::onCreditFlashLoan`, forcing it to revert",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/26",
+  "originalIssueId": 6,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/6"
+}
