@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "`kyberSwap` will not work due to incorrectly decoded returned swap values",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/23",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/24"
+}
