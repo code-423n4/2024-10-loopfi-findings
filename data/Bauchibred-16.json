@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": " Accumulated rewards would be frozen when the token's index is `0`",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/16",
+  "originalIssueId": 72,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/72"
+}
