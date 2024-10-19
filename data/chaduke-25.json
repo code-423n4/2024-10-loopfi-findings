@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "chaduke",
+  "risk": "3",
+  "title": "Rewards might be lost due to the error that _updateRewardIndex() might advance lastBalance without advancing index for a token. ",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/25",
+  "originalIssueId": 12,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/12"
+}
