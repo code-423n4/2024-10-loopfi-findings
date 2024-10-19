@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "Evo",
+  "risk": "2",
+  "title": "Treasury contract allows unrestricted access to release funds, enabling premature depletion",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/15",
+  "originalIssueId": 87,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/87"
+}
