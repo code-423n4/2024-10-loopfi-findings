@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " When adding new quoted tokens, worse off rates for Loopfi is always used for all types of tokens",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/20",
+  "originalIssueId": 34,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/34"
+}
