@@ -1,0 +1,10 @@
+{
+  "contest": 456,
+  "handle": "0xAlix2",
+  "risk": "3",
+  "title": "`PoolV3:: repayCreditAccount` is invalidly handling loss when `CDPVault:: liquidatePositionBadDebt` is called",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/29",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/65"
+}
